@@ -4,3 +4,4 @@
 mini_proj/
 *.csv
 *.out
+.venv
