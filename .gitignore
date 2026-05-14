@@ -1,0 +1,6 @@
+*.pdf
+*.docx
+.codex
+mini_proj/
+*.csv
+*.out
